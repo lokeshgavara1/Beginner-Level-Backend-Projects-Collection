@@ -89,8 +89,9 @@ npm run dev
 ---
 
 ## 🙌 Author
-
-**Gavara Lokesh**
+### Gavara Lokesh
+📧 lokeshgavara1@gmail.com
+🔗 LinkedIn Profile
 
 ---
 
